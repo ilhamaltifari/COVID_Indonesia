@@ -46,6 +46,7 @@
 
 * Provinsi Jawa Timur
   * Kota Surabaya
+  * Kabupaten Banyuwangi : [disini] (https://corona.banyuwangikab.go.id/)
 
 ## PULAU BALI
 * Provinsi Bali
@@ -115,3 +116,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+[Ilham Altifari] (https://www.linkedin.com/in/ilham-altifari-478b84173)
